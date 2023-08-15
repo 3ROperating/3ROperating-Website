@@ -1120,7 +1120,8 @@ section {
 }
 
 #footer .footer-top .footer-contact p {
-  line-height: 26px;
+  line-height: 20px;
+  /* line-height: 26px; */
 }
 
 #footer .copyright {
